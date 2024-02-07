@@ -1,0 +1,1 @@
+<start> create a new file <<in the $path>> <<called $name>> <end>
